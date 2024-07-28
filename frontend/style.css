@@ -1,0 +1,173 @@
+body{
+    background-color: hsl(210, 46%, 95%);
+}
+
+#main{
+    width: 65%;
+    border: 1px solid;
+    margin: auto;
+    height: 650px;
+    margin-top: 70px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    border: none;
+}
+.div{
+    border: 1px solid;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0px 0px 10px;
+    
+}
+.div1{
+    width: 50%;
+    height: 300px;
+    background-color: hsl(263, 55%, 52%)
+    
+}
+
+.div2{
+    width: 250px;
+    height: 300px;
+    background-color: hsl(217, 19%, 35%);
+
+}
+.div3{
+    width: 250px;
+    height: 650px;
+    background-color: white;
+}
+.div4{
+    position: relative;
+    bottom: 350px;
+    width: 300px;
+    height: 300px;
+    background-color: white;
+}
+.div5{
+    position: relative;
+    bottom:350px ;
+    width: 569px;
+    height: 300px;
+    background-color: hsl(219, 29%, 14%);
+}
+.cild1{
+    border: 1px solid;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-image: url(/Inf/images/man1.jpg);
+    border: none;
+
+
+}
+.h3{
+    position: relative;
+    left: 60px;
+    
+}
+.h33{
+    position: relative;
+    left: 60px;
+    color: white;
+}
+.p3{
+    position: relative;
+    left: 60px;
+    bottom: 10px;
+    color: rgba(255, 255, 255, 0.086);
+}
+.p{
+    position: relative;
+    left: 60px;
+    bottom: 10px;
+    color: rgba(0, 0, 0, 0.433);
+}
+.pp{
+    color: rgba(255, 255, 255, 0.395);
+}
+.h333{
+    color: white;
+}
+#txt1{
+    border: 1px solid;
+    width: 600px;
+    height: 250px;
+    border: none;
+}
+.cild2{
+    border: 1px solid;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-image: url(/Inf/images/man3.jpg);
+    border: none;
+}
+.txt2{
+    border: 1px solid;
+    width: 200px;
+    height: 250px;
+    border: none;
+}
+#p1{
+    position: relative;
+    bottom: 15px;
+}
+.cild3{
+    border: 1px solid;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-image: url(/Inf/images/woman1.jpg);
+    border: none;
+}
+.txt3{
+    width: 200px;
+    height: 650px;
+
+}
+.ppp{
+    color: rgba(0, 0, 0, 0.399);
+}
+.cild4{
+    border: 1px solid;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-image: url(/Inf/images/woman2.jpg);
+    border: none;
+}
+.txt4{
+    width: 250px;
+    height: 300px;
+}
+.cild5{
+    border: 1px solid;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    margin-left: 20px;
+    margin-top: 20px;
+    background-image: url(/Inf/images/man2.jpg);
+    border: none;
+}
+.pp1{
+    position: relative;
+    bottom: 20px;
+    color: rgba(255, 255, 255, 0.423);
+}
+.txt5{
+    width: 500px;
+    height: 300px;
+}
